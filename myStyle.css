@@ -1,0 +1,23 @@
+body {
+  background-color:#8392F7;
+}
+
+/* overskrift h1 design */
+h1{
+font-style: oblique;
+font-size: 80px;
+}
+
+pre{
+  background-color: #1B2775;
+}
+
+
+.boxFloatRighe{
+float: right;
+background-color: #3E4675;
+width: 40%;
+height: 40%;
+overflow: show;
+font-size: 40;
+}
